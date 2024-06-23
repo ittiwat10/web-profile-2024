@@ -8,10 +8,9 @@ const Personality = (props: Props) => {
   return (
     <Card title="Personality">
       <div>
-        <p className="text-lg">Adventurer (ISFP)</p>
+        <p className="text-lg">(Executive) (ESTJ)</p>
         <p className="pb-2">
-          Adventurers are flexible and charming, always ready to explore and
-          experience something new.
+        Executives are classic image of a model citizen. They help neightbors, strict to the law, and try to make everyone has participation in the community and the organization, which they love. 
         </p>
         <div className="flex gap-1">
           <Badge>INTROVERTED</Badge>
